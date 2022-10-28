@@ -8,4 +8,7 @@ This was an interesting introduction to the Unity Engine and I hope to be workin
 in conjunction with other engines out there.
 The source code for the project is uploaded to this repository alongside incomplete parts.
 
+All in all, the project taught me the basics of the Unity Engine and was my starting point in my interest in
+graphics programming. It marked my interested in animation as well as game engine in general.
+
 Here is the link to the video of the test Rollaball: https://youtu.be/Hmcih_Rqbhg
